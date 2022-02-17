@@ -58,8 +58,8 @@ COPY library-scripts/.Rprofile-vscode /renv/.Rprofile-vscode
 
 # [Optional] Uncomment this section to add Hugo to the container
 # Customize version number as appropriate
-#RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.87.0/hugo_extended_0.87.0_Linux-64bit.deb -o /tmp/hugo.deb
-#RUN apt-get -y install ./tmp/hugo.deb
+RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.92.2/hugo_extended_0.92.2_Linux-64bit.deb -o /tmp/hugo.deb
+RUN apt-get -y install ./tmp/hugo.deb
 
 # [Optional] Uncomment this section to add addtional system dependencies needed for project
 # RUN apt-get update \
