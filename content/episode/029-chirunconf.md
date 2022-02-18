@@ -15,6 +15,8 @@ guests:
 - blistyg
 - wlandau
 - cclark
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

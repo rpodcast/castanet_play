@@ -21,6 +21,8 @@ guests:
 - jallen
 - jcheng
 - hwickham
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:19:00"

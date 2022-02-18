@@ -13,6 +13,8 @@ explicit: "no"
 guests:
 - mrundel
 - ahill
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

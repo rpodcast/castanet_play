@@ -18,6 +18,8 @@ episode: "17"
 explicit: "no"
 guests:
 - vnijs
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:37:19"

@@ -17,6 +17,8 @@ date: 2012-04-29T20:58:39-05:00
 episode: "6"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:54:03"

@@ -13,6 +13,8 @@ explicit: "no"
 guests:
 - hparker
 - ntierney
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

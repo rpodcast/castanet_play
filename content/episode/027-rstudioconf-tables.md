@@ -12,6 +12,8 @@ episode_image: img/episode/ep27_logo.jpg
 explicit: "no"
 guests:
 - riannone
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

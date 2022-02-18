@@ -13,6 +13,8 @@ explicit: "no"
 guests:
 - rfrancois
 - tpedersen
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

@@ -12,6 +12,8 @@ episode_image: img/episode/ep28_logo.png
 explicit: "no"
 guests:
 - mkuhn
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

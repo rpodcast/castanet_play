@@ -17,6 +17,8 @@ episode: "13"
 explicit: "no"
 guests:
 - yxie
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:52:01"

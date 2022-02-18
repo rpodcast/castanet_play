@@ -17,6 +17,8 @@ episode: "21"
 explicit: "no"
 guests:
 - deddelbuettel
+hosts:
+- enantz
 podcast_duration: "0:40:00"
 podcast_file: 4VZQ26aX
 podcast_bytes: ""

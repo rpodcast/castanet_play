@@ -21,6 +21,8 @@ episode: "22"
 explicit: "no"
 guests:
 - wlandau
+hosts:
+- enantz
 podcast_duration: "1:17:00"
 podcast_file: Sdwuq6Fz
 podcast_bytes: ""

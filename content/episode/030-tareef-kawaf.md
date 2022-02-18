@@ -12,6 +12,8 @@ episode_image: img/episode/ep30_logo.png
 explicit: "no"
 guests:
 - tkawaf
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

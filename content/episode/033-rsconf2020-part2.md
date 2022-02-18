@@ -12,6 +12,8 @@ episode_image: img/episode/default.jpg
 explicit: "no"
 guests:
 - gbuie
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

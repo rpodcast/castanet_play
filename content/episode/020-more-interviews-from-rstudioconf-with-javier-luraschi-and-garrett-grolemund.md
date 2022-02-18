@@ -21,6 +21,8 @@ explicit: "no"
 guests:
 - jluraschi
 - ggrolemund
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:29:59"

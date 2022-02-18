@@ -20,6 +20,8 @@ explicit: "no"
 guests:
 - bborges
 - dattali
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:09:00"

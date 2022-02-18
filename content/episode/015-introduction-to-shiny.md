@@ -24,6 +24,8 @@ date: 2015-12-31T21:11:30-05:00
 episode: "15"
 explicit: "no"
 guests: []
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:50:51"

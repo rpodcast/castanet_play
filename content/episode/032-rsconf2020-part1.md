@@ -12,6 +12,8 @@ episode_image: img/episode/default.jpg
 explicit: "no"
 guests:
 - kushey
+hosts:
+- enantz
 images:
 - img/episode/default-social.jpg
 podcast_bytes: ""

@@ -19,6 +19,8 @@ episode: "16"
 explicit: "no"
 guests:
 - dattali
+hosts:
+- enantz
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:40:58"
