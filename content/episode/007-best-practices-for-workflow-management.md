@@ -24,7 +24,7 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:52:44"
-podcast_file: 0f1f5be7-97ad-415b-bfd1-87c21a80111e.mp3
+podcast_file: kE096YWo
 podcast_bytes: ""
 tags: []
 title: 'Episode 7: Best Practices for Workflow Management'

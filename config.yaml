@@ -116,7 +116,7 @@ params:
       url: https://cote.io/podcasts/sdt/
   mailchimp_subscribe: //arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc
   mainSections: episode
-  media_prefix: https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/
+  media_prefix: "https://player.fireside.fm/v2/yS9jeZiZ+"
   pocketcasts_subscribe: http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss
   podlove:
     subscribe_color: '#585e6c'

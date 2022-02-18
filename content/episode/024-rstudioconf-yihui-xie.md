@@ -16,7 +16,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: '1eefeddc-2528-48a5-8875-e45828bb78ca.mp3'
+podcast_file: 'mlJ9-i1y'
 title: "Episode 24: Yihui Xie Returns (rstudio::conf 2018)"
 youtube: "Z-lcxO30X8E"
 ---

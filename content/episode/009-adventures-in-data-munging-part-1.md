@@ -20,7 +20,7 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:11:00"
-podcast_file: 00942d84-d2e8-4d7c-94ec-46bf7add9eca.mp3
+podcast_file: q5t-eFAZ
 podcast_bytes: ""
 tags: []
 title: 'Episode 9: Adventures in Data Munging Part 1'

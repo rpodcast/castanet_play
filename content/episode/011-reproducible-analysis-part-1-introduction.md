@@ -21,7 +21,7 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "1:17:00"
-podcast_file: 8fc51582-ff4b-4d03-a186-b14f8eb1ca5f.mp3
+podcast_file: fSc4OI5x
 podcast_bytes: ""
 tags: []
 title: 'Episode 11: Reproducible Analysis Part 1 (Introduction)'

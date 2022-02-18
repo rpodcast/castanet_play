@@ -24,7 +24,7 @@ guests:
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:29:59"
-podcast_file: ce37b36c-33b4-4c15-997f-16ff9b9d28ec.mp3
+podcast_file: c2Nuwf2s
 podcast_bytes: ""
 tags: []
 title: 'Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett Grolemund'

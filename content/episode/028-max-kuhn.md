@@ -16,7 +16,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'cb9139b6-9cf0-42bd-8f9a-863ce64e817d.mp3'
+podcast_file: '7sfggJYU'
 title: "Episode 28: Tidymodels with Max Kuhn (rstudio::conf 2019)"
 youtube: "hCrd8CU5zxw"
 ---

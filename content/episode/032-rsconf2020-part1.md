@@ -16,7 +16,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'a4dc13f1-a89b-4e59-b813-511635f1f96c.mp3'
+podcast_file: 'tGBG4n18'
 title: "Episode 32: RStudio's Big Move and Kevin Ushey"
 youtube: "EdKzYaVg2Gk"
 ---

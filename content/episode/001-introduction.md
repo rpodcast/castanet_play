@@ -17,7 +17,7 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:30:52"
-podcast_file: 94e70df6-a918-456d-a2e9-27b257fe4b9e.mp3
+podcast_file: jw5FxSqj
 podcast_bytes: ""
 tags: []
 title: 'Episode 1: Introduction'

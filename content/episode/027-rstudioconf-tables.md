@@ -16,7 +16,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: 'bc6edad7-787d-4d10-926c-327a2388d19c.mp3'
+podcast_file: '81hJmYen'
 title: "Episode 27: Get the {gt} tables! (rstudio::conf 2019)"
 youtube: "-0pXDxDyYeA"
 ---

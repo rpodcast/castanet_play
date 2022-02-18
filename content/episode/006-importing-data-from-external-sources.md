@@ -20,7 +20,7 @@ guests: []
 images:
 - /img/episode/default-social.jpg
 podcast_duration: "0:54:03"
-podcast_file: 82d4368d-6f99-4af9-a50c-321dc6d7e43b.mp3
+podcast_file: yvte2i_P
 podcast_bytes: ""
 tags: []
 title: 'Episode 6: Importing Data from External Sources'

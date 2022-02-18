@@ -16,7 +16,7 @@ images:
 - img/episode/default-social.jpg
 podcast_bytes: ""
 podcast_duration: ""
-podcast_file: '6f8ab007-d169-49a6-b1fc-6886c7cefb44.mp3'
+podcast_file: 'CqfVcDoZ'
 title: "Episode 33: Shiny and JavaScript wizardry with Garrick Aiden-Buie"
 youtube: "FGtdC2-GGnc"
 ---
